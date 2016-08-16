@@ -7,5 +7,6 @@ public class Test2 {
   public void f() {
 	  System.out.println("This is Jenkins Demo");
 
+	System.out.println("This is Second Jenkins Demo");
   }
 }
